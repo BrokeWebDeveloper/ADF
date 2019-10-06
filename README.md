@@ -4,4 +4,4 @@ AltDelFonts or to put it simply ADF is a simplistic font provider providing QUIC
 BrokeWebDeveloper
 # Font Contributors
 BrokeWebDeveloper
-## Thank For Using Our QUICK AND DIRTY Fonts!
+## Thanks For Using Our QUICK AND DIRTY Fonts!
