@@ -6,5 +6,5 @@
 # If There's A Bug In The Repository?
 ### Make A Pull Request or make a new issue, post it regarding the bug/problem
 # Suggestions?
-### In Suggestions.md put your suggestion there! :)
+### In SUGGESTIONS.md put your suggestion there! :)
 ## Thanks For Contributing :)
