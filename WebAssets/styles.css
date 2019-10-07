@@ -1,6 +1,6 @@
 @font-face {
     font-family: "SketchedFilledAndCovered-Regular";
-    src: url('Fonts/FilledCover/SketchedFilledAndCovered-Regular.ttf')  format('truetype');
+    src: url('../Fonts/FilledCover/SketchedFilledAndCovered-Regular.ttf')  format('truetype');
 }
 
 h3.example {
