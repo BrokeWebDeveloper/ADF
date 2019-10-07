@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "SketchedFilledAndCovered-Regular";
+    src: url('Fonts/FilledCover/SketchedFilledAndCovered-Regular.ttf')  format('truetype');
+}
+
+h1.example {
+    color: black;
+    font-family: SketchedFilledAndCovered-Regular;
+    font-size: 280%;
+}
+
+p.copyright {
+    color: black;
+    font-family: Inter;
+    font-size: 50%;
+}
