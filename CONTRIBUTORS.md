@@ -13,7 +13,7 @@
 ### 10.
 
 ## English
-### 1. BrokeWebDeveloper Font : Imperfect, Sketched Filled And Covered, Outlawed.
+### 1. BrokeWebDeveloper, Fonts: Imperfect, Sketched Filled And Covered, Outlawed.
 ### 2.
 ### 3.
 ### 4.
