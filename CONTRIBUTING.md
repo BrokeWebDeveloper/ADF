@@ -9,4 +9,6 @@
 ### Make A Pull Request or make a new issue, post it regarding the bug/problem
 # Suggestions?
 ### In SUGGESTIONS.md put your suggestion there! :)
+# I Want Credit!
+### Go to CONTRIBUTOR.md And put your name to the section in which language you created the font in.
 ## Thanks For Contributing :)
